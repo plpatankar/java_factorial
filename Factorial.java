@@ -1,4 +1,3 @@
-// Factorial java 
 import java.util.Scanner;
  
 class Factorial
